@@ -1,0 +1,71 @@
+/* редактированно */
+.ta-head-detail {
+	display:none;	
+}
+.pum-container {
+	font-weight: bold;
+} 
+#req {
+	overflow-x: scroll;
+}
+.sp-body {
+	overflow-x: scroll;
+}
+.comments-area {
+	text-align: center;
+}
+#req {
+	margin: 0 auto;
+}
+#req td {
+	padding: 10px;
+}
+.all-iso {
+	margin: 0 auto;
+}
+.all-iso td {
+	text-align: center;
+}
+.maintable {
+	margin: 0 auto;
+}
+.maintable td {
+	text-align: center;
+}
+.maintable tr:first-child td:nth-child(2) {
+	text-align: center;
+}
+.maintable tr td:nth-child(2) {
+	text-align: left;
+}
+.sp-wrap {
+	margin: 0;
+}
+.blocksmall {
+	display: inline-block;
+}
+.blocksmall:nth-child(2n) {
+	float: right;
+}
+.maintable td {
+	padding: 10px;
+}
+.ti_scroll {
+	right: 365px;
+bottom: 60px;
+}
+.navbar-brand {
+	margin-right 0px;
+	margin-left: 40px;
+}
+#tidio-chat-iframe {
+	margin-bottom: 40px;
+}
+.custom-logo {
+	height: 30%;
+	padding: 0;
+}
+.navbar-brand {
+	padding: 0;
+}
+.navbar {
