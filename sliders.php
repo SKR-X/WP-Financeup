@@ -1,4 +1,5 @@
 <?php 
+// home-slider.php with 5 slliders
   $slider_overlay = get_theme_mod('financeup_overlay_slider_color_control','');
   
   $financeup_slider_enable = get_theme_mod('financeup_slider_enable');
